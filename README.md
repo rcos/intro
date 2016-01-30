@@ -82,4 +82,4 @@ If it's just after the first meeting and you're wondering what to do, check off 
 
 * Sign up for [Observatory](rcos.io) and [the slack](rcos.slack.com)
 * Find people or a project
-* Prepare a slide deck and proposal, email it to <email>
+* Prepare a slide deck and proposal, email the proposal to "rcos at rensselaer" <rcos-at-rensselaer@googlegroups.com> and email the slide to gundea@rpi.edu
