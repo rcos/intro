@@ -78,8 +78,19 @@ Student's who take RCOS for credit must be evaluated and given a letter grade. T
 
 ## What do you do now?
 
-If it's just after the first meeting and you're wondering what to do, check off each of the following bullets. If you check them all off, you're in great shape. If you can't check them al off, talk to a mentor or coordinator.
+If it's just after the first meeting and you're wondering what to do, check off each of the following bullets. If you check them all off, you're in great shape. If you can't check them all off, talk to a mentor or coordinator.
 
 * Sign up for [Observatory](rcos.io) and [the slack](rcos.slack.com)
 * Find people or a project
 * Prepare a slide deck and proposal, email it to <email>
+
+# Contributing to this repository
+
+This presentation is open to new ideas, submit a PR!
+
+If you are a developer attempting to update the site at `rcos.github.io/intro`, run the following command on the `master` branch from the top level...
+
+```git
+git subtree push --prefix presentation origin gh-pages
+```
+
