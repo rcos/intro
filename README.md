@@ -66,13 +66,13 @@ If you're working on a new project, you should strive to make your project shoul
 
 If you're contributing to an existing project (one that has users), you should strive to make meaningful contributions to the project and help the maintainers.
 
-If you're a mentor or coordinator, see the [mentor guidelines](https://github.com/rcos/intro/blob/master/mentors.md).
+If you're a mentor or coordinator, see the [mentor guidelines](https://github.com/rcos/intro/blob/master/docs/mentors.md).
 
 ## How you are evaluated in RCOS
 
 Student's who take RCOS for credit must be evaluated and given a letter grade. There is no curve in RCOS, everyone who actively contributes in the ways mentioned above will receive a high grade. If you're ever worried about how your doing in RCOS, talk to a mentor or coordinator.
 
-If you'd like to see a more refined set of guidelines, see the formal [grading rubric](https://github.com/rcos/intro/blob/master/grading.md).
+If you'd like to see a more refined set of guidelines, see the formal [grading rubric](https://github.com/rcos/intro/blob/master/docs/grading.md).
 
 ## Our goals in RCOS (S2016)
 
