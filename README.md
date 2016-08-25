@@ -14,7 +14,7 @@ Internally, it is often fondly said that "RCOS is anarchy", as there are very fe
 
 RCOS offers a unique, open-ended learning experience. In RCOS, a student can contribute to existing open source efforts, learn a new technology, find a development team, and work on their "passion projects".
 
-RCOS offers a huge community of open source developers skilled in nearly any platform, framework or language. Generally we communicate over [our slack](rcos.slack.com), where answers to questions and insightful discussions in a wide variety of topics can be explored.
+RCOS offers a huge community of open source developers skilled in nearly any platform, framework or language. Generally we communicate over [our slack](https://rcos.slack.com), where answers to questions and insightful discussions in a wide variety of topics can be explored.
 
 RCOS is offered for credit at RPI and fulfills a 4000 level technical elective.
 
@@ -32,11 +32,11 @@ As mentioned above, there are two types of meetings in RCOS. **Small Group** mee
 
 ## Observatory
 
-[Observatory] (rcos.io) is RCOS's open source project management platform. Every RCOS member is required to have an observatory account, it's through this platform that you can write blog posts, record your attendance and see other RCOS projects.
+[Observatory] (https://rcos.io) is RCOS's open source project management platform. Every RCOS member is required to have an observatory account, it's through this platform that you can write blog posts, record your attendance and see other RCOS projects.
 
 ## Slack
 
-[Slack](rcos.slack.com) is the primary communication platform for RCOS. Each team in RCOS has a Slack channel where they can coordinate meetings and manage the project.
+[Slack](https://rcos.slack.com) is the primary communication platform for RCOS. Each team in RCOS has a Slack channel where they can coordinate meetings and manage the project.
 
 ## Finding an Open Source project to contribute to
 
@@ -84,7 +84,7 @@ If you'd like to see a more refined set of guidelines, see the formal [grading r
 
 If it's just after the first meeting and you're wondering what to do, check off each of the following bullets. If you check them all off, you're in great shape. If you can't check them all off, talk to a mentor or coordinator.
 
-* Sign up for [Observatory](rcos.io) and [the slack](rcos.slack.com)
+* Sign up for [Observatory](https://rcos.io) and [the slack](https://rcos.slack.com)
 * Find people or a project
 * Prepare a slide deck and proposal, email it to <email>
 
