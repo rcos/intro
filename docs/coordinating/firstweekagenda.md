@@ -46,4 +46,4 @@ Mentors ensure that mentees
 
 Everyone goes to RCOS large group. Forms are handed in at end of session. New projects are introduced. Presentation on how to present in RCOS (rules and guidelines for presenting) is shown. 
 
-At the end of this meeting every project has a pitch slide.
+At the end of this meeting (ideally before) every project has a pitch slide. A picture is usually taken at the end of RCOS with the all the members.
