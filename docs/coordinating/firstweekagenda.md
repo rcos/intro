@@ -21,7 +21,7 @@ All of the following details need to be worked out within the first two weeks
 
 The first meeting begins on a tuesday.
 
-The first meeting begins with the [rcos introduction slides](https://rcos.github.com/intro). The slides go through the history and several of the RCOS Concepts. It is stated that existing projects will pitch on Friday (giving time for people who are new to RCOS to join the project). Pitch slides are collected by a coordinator.
+The first meeting begins with the [rcos introduction slides](https://rcos.github.com/intro). The slides go through the history and several of the RCOS Concepts. It is stated that existing projects will pitch on Friday (giving time for people who are new to RCOS to join the project). Pitch slides are collected by a coordinator until Thursday night.
 
 Existing projects are reminded to submit proposals. Existing projects are asked to fill out a form expressing their small group mentor/technology preference.
 
@@ -45,3 +45,5 @@ Mentors ensure that mentees
 ## Fourth Meeting (Friday)
 
 Everyone goes to RCOS large group. Forms are handed in at end of session. New projects are introduced. Presentation on how to present in RCOS (rules and guidelines for presenting) is shown. 
+
+At the end of this meeting every project has a pitch slide.
