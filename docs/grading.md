@@ -80,7 +80,8 @@ for more details.
 ### External Contribution
 
 Contribute to something outside of RCOS! External contributions show that RCOS
-is helping projects outside of RPI and is very encouraged.
+is helping projects outside of RPI and is very encouraged. The project you're
+contributing to should be used by a significant number of people outside of RPI.
 
 ### Documentation Review
 
