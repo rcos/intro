@@ -43,55 +43,59 @@ what you decided to do instead.)
 
 ### Attendance
 
-Being part of the RCOS community means seeing what RCOS members are doing, giving
-feedback, and learning from tech talks and guest speakers. RCOS attendance goes
-through observatory, and depending on the number of credits you take you are
-allowed to skip a certain number of lectures.
+Being part of the RCOS community means seeing what RCOS members are doing,
+giving feedback, and learning from tech talks and guest speakers. RCOS
+attendance goes through observatory, and depending on the number of credits you
+take you are allowed to skip a certain number of lectures.
 
 There are a certain number of required bonus sessions, which take place after
 RCOS (within the 2 hour time block) or at a day announced at a large group
 meeting. If you attend over your required number of bonus sessions, a bonus
 session counts as normal attendance.
 
-Generally bonus sessions are unique, long or workshop-style tech talks, a
-RCOS hackathon, or an optional RCOS session. Pay attention in the large group
+Generally bonus sessions are unique, long or workshop-style tech talks, a RCOS
+hackathon, or an optional RCOS session. Pay attention in the large group
 meeting to hear bonus sessions announced.
 
 ### Average Weekly Contributions
 
 Weekly contributions can be anything from creating issues, commenting on pull
 requests or committing code to a repository. Contributions should indicate
-community involvement (e.g. a pull request that is reviewed by peers) rather than
-"working alone publicly". If you are on an RCOS project alone, it is admissable
-to commit directly to a repository.
+community involvement (e.g. a pull request that is reviewed by peers) rather
+than "working alone publicly". If you are on an RCOS project alone, it is
+admissable to commit directly to a repository.
 
 ### Small Group Presentations
 
-Small group presentations help give projects critical feedback or resolve issues,
-a mentor will organize presentations at the beginning of the semester in an early
-small group.
+Small group presentations help give projects critical feedback or resolve
+issues, a mentor will organize presentations at the beginning of the semester
+in an early small group.
 
 ### Large Group Presentations
 
-Large group presentations usually do not receive feedback, and should be tailored
-to engaging the RCOS community. See [rcos presentations](http://rcos.github.io/intro/presentations#/)
-for more details.
+Large group presentations usually do not receive feedback, and should be
+tailored to engaging the RCOS community. See [rcos
+presentations](http://rcos.github.io/intro/presentations#/) for more details.
 
 ### External Contribution
 
-Contribute to something outside of RCOS! External contributions are encouraged as it allows RCOS to give back to the larger open source community. The project you're
-contributing to should be used by a significant number of people outside of RPI.
+Contribute to something outside of RCOS! External contributions are encouraged
+as it allows RCOS to give back to the larger open source community. The project
+you're contributing to should be used by a significant number of people outside
+of RPI.
 
 ### Documentation Review
 
-You're project should live on outside of RCOS! You should have a README, instructions
-for developers to work on the project and some form of documentation. Instructors
-will go through the documentation and make sure that your project could potentially
-have a life outside of RCOS.
+You're project should live on outside of RCOS! You should have a README,
+instructions for developers to work on the project and some form of
+documentation. Instructors will go through the documentation and make sure that
+your project could potentially have a life outside of RCOS.
 
-Making a website is an encouraged way of showing off your project outside of RCOS.
+Making a website is an encouraged way of showing off your project outside of
+RCOS.
 
 ## Individual and Group Grading
 
-RCOS is a team sport, but when grading instructors can only look at the individual.
+RCOS is a team sport, but when grading instructors can only look at the
+individual.
 Make sure that you meet the requirements!
