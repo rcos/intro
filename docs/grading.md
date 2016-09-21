@@ -79,8 +79,14 @@ for more details.
 
 ### External Contribution
 
-Contribute to something outside of RCOS! External contributions are encouraged as it allows RCOS to give back to the larger open source community. The project you're
-contributing to should be used by a significant number of people outside of RPI.
+Contribute to something outside of RCOS or help out another group with an issue! External contributions 
+are encouraged as it allows RCOS to give back to the larger open source community.  The project you're
+contributing to should be used by a significant number of people outside of RPI.  
+
+Within RCOS, we also want to generate a community of helping other projects and making your project more 
+friendly to outside contributors. If you doing your external contributions to another RCOS project, it 
+must be a project that you have not previouly worked on and you must communicate with the project through 
+Github issues, PRs, and code reviews. 
 
 ### Documentation Review
 
