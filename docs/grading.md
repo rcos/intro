@@ -22,8 +22,8 @@ longer descriptions of each metric).
 |--------------|------------|--------------------------------|--------------------------|---------------------------|---------------------------|-----------------------|----------------------|
 | 1            | 2          | 3 absences, 1 bonus session    | 1                        | 2                         | 0                         | X                     | X                    |
 | 2            | 3          | 3 absences, 2 bonus sessions   | 3                        | 2                         | 1                         | X                     | X                    |
-| 3            | 4          | 2 absences, 2 bonus sessions   | 5                        | 2                         | 2                         | X                     | Yes                  |
-| 4            | 4          | 2 absences, 2 bonus sessions   | 7                        | 2                         | 2                         | Yes                   | Yes                  |
+| 3            | 4          | 2 absences, 2 bonus sessions   | 5                        | 2                         | 1                         | X                     | Yes                  |
+| 4            | 4          | 2 absences, 2 bonus sessions   | 7                        | 2                         | 1                         | Yes                   | Yes                  |
 
 ## Grading Metrics
 
