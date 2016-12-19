@@ -20,7 +20,7 @@ RCOS is offered for credit at RPI and fulfills a 4000 level technical elective.
 
 # How to join RCOS
 
-If your an RPI student, hop in on our first meeting of the semester or join [our slack](https://rcos.slack.com) and message a faculty coordinator (@mskmoorthy or @turnew2).
+If you're an RPI student, hop in on our first meeting of the semester or join [our slack](https://rcos.slack.com) and message a faculty coordinator (@mskmoorthy or @turnew2).
 
 If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](coordinators@rcos.io) to get setup on the [rcos slack](#slack). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
 
