@@ -18,6 +18,12 @@ RCOS offers a huge community of open source developers skilled in nearly any pla
 
 RCOS is offered for credit at RPI and fulfills a 4000 level technical elective.
 
+# How to join RCOS
+
+If you're an RPI student, hop in on our first meeting of the semester or join [our slack](https://rcos.slack.com) and message a faculty coordinator (@mskmoorthy or @turnew2).
+
+If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](coordinators@rcos.io) to get setup on the [rcos slack](#slack). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
+
 # The basics, or how to be successful in RCOS
 
 ## Organization
@@ -26,7 +32,11 @@ There are several groups of people in RCOS, often broken up by experience level.
 * **Member** - Most students in RCOS are members, members work towards the mission statement of RCOS and work on their projects. Members attend small group meetings run by Mentors.
 * **Mentors** - Mentors are experienced RCOS members who stepped up to lead a group of members. These mentors help guide new students and make sure that projects aren't "stagnating". Mentors are often highly motivated and extremely helpful.
 * **Coordinators** - This is a small group of mentors that coordinate run large group meetings and external events.
-* **Faculty Advisors** - This is Professor Moorthy and Goldschmidt. They take care of much of RCOS's logistics, our funding, broad direction goals and guide the RCOS coordinators.
+* **Faculty Advisors** - This is Professor Moorthy, Goldschmidt and Turner. They take care of much of RCOS's logistics, our funding, broad direction goals and guide the RCOS coordinators.
+
+There are also members of RCOS outside RPI...
+* **External Members** - Any member of RCOS outside of RPI, this includes RCOS alumni and RCOS affiliates.
+* **External Mentors** - Previous RCOS members or interested individuals can mentor RCOS without being on the RPI campus. External mentors bring unique perspectives and project opportunities to RCOS. 
 
 As mentioned above, there are two types of meetings in RCOS. **Small Group** meetings are run by a mentor that you choose or (if you don't choose) is chosen at the beginning of the semester for you. **Large Group** meetings are run by coordinators and allow members to speak to all of RCOS about what they're working on or teach new or interesting technologies.
 
@@ -90,7 +100,7 @@ If it's just after the first meeting and you're wondering what to do, check off 
 
 # Contributing to this repository
 
-This presentation is open to new ideas, submit a PR!
+This presentation and introduction is open to new ideas, submit a PR!
 
 If you are a developer attempting to update the site at `rcos.github.io/intro`, run the following command on the `master` branch from the top level...
 
