@@ -1,103 +1,145 @@
-# Grading
+# Grading Requirements
 
 ## Overview
 
 RCOS is largely a self-guided class, which can make grading difficult. Instructors
 use utilities such as [Observatory](https://rcos.io/) to make turn open source
-contributions and community involvement into appropriate grades. Generally
-speaking, if you're contributing to the community and/or making valuable
+contributions and community involvement into appropriate grades. The following grading criteria
+are designed to help you be successful both as an RCOS student, and as a member of the open source 
+community. Generally speaking, if you're contributing to the community and/or making valuable
 open-source contributions you'll receive a high grade in RCOS.
 
-## Grade Levels
+## Project Contributions & Planning
 
-Beginning in Fall 2016, RCOS will begin accepting 4 credit levels for RCOS students.
-Higher credit levels generally entail more commitment and responsibility, while
-lower credit levels take less time and require less objectives.
+### Proposal
 
-The following table represents a general rule-of-thumb for metrics that every
-RCOS member should keep track of (see [grading metrics](#grading-metrics) for
-longer descriptions of each metric).
+Each project must start with a proposal. This proposal will serve as your plan and contract, and should describe a set of well
+defined deliverables your team will implement over the course of the semester. 
+The suggested number of deliverables is the number of group members times two and each deliverable should have a planned date of completion.
+Each team member should contribute to at least 3 deliverables, and multiple team members
+can of course collaborate on any given deliverable. These are suggested values and many groups
+may find larger numbers to be appropriate based on the size of the team and the scope of the project.
 
-| Credit Level | Blog Posts | Attendance                     | Avg weekly Contributions | Small Group Presentations | Large Group Presentations | External Contribution | Documentation Review |
-|--------------|------------|--------------------------------|--------------------------|---------------------------|---------------------------|-----------------------|----------------------|
-| 1            | 2          | 3 absences, 1 bonus session    | 1                        | 2                         | 0                         | X                     | X                    |
-| 2            | 3          | 3 absences, 2 bonus sessions   | 3                        | 2                         | 1                         | X                     | X                    |
-| 3            | 4          | 2 absences, 2 bonus sessions   | 5                        | 2                         | 1                         | X                     | Yes                  |
-| 4            | 4          | 2 absences, 2 bonus sessions   | 7                        | 2                         | 1                         | Yes                   | Yes                  |
+The proposal and deliverables therein must be approved by a mentor at the start of the semester.
+However, it is important to remember that the proposal is a living document.
+Plans often change, and that is OK. In the event you decide to change your plans for the semester,
+or fail to adhere to the timeline set in the proposal, the proposal must be revised
+accordingly and the revisions must be approved by a mentor.
 
-## Grading Metrics
+### Deliverables
+
+A deliverable is functional increment of your project. For software projects, a deliverable should
+typically be a working collection of commits that accomplished a portion of your overall goals.
+
+It is strongly recommended that deliverables be broken down into sub tasks, which should be tracked
+using Github Issues. Issues should have well defined acceptance criteria, and should be organized
+using Github Projects. 
+
+A deliverable does not necessarily have to a functional change to your project if other work is necessary.
+Examples of non-functional deliverables include learning or research goals, significant architectural or
+design work, etc.
+
+If a deliverable is not a functional change, there should be a greater focus on documentation
+to appropriately convey the work that was done.
+
+Progress for each deliverable must be meticulously documented in one or more blog posts. See
+[Blog Posts](#blog-posts) for more information.
+
+If you are not sure how to best divide up your project into deliverables, please ask a mentor for assistance.
+
+## Documentation
+
+Projects should be well documented. Documentation can take many forms. A README and an
+OSI approved license are mandatory. The README should include a summary of the project,
+instructions for contributing, and any other information needed to develop for and use
+the project.
+
+Additional documentation (other than a README and blog posts) is required.
+Examples of additional documentation include but are not limited to UML diagrams,
+API documents, user manuals, FAQs, setup guides, troubleshooting information, etc.
+
+The use of a wiki is strongly encouraged. Creating a static project site can help you
+organize your various forms of documentation and provide excellent exposure for your
+project.
+
+If you are unsure how to properly document your project, please consult your mentor for
+advice early on.
 
 ### Blog Posts
 
-Blog posts are a way to explain the high level goals of a project, to indicate
+Blog posts should be informative, and are often status updates about your project.
+They can also be more general or written in the form of a guide or tutorial. Blog posts
+that may help another developer solve a problem that you have solved are extremely valuable
+to the open source community. In general you should write blog posts that you would want to 
+read and that you would find useful.
+
+Blog posts are also a good way to explain the high level goals of a project, to indicate
 that a project is struggling (someone in RCOS might be able to help!) or just
 to document tasks that don't fall easily into other categories.
-
-If the instructor feels that the blog post doesn't add value to the project, if
-it's poorly written or very short, it may not be counted. Check with your mentor
-if you're not sure your blog post is good enough!
 
 It's a good idea to have a blog post at the beginning of the semester and end of
 the semester to indicate what you hope to do, then what you were able to do (or
 what you decided to do instead.)
 
-### Attendance
+Remember, if the instructor feels that the blog post doesn't add value to the project, if
+it's poorly written or very short, it may not be counted. Check with your mentor for blog
+post ideas or if you're not sure your blog post is ready for the world!
+
+The minimum requirement for blog posts is one per deliverable plus one at the start and end of
+the semester, but you are strongly encouraged to do more. Blog early and blog often!
+
+## Attendance
 
 Being part of the RCOS community means seeing what RCOS members are doing, giving
-feedback, and learning from tech talks and guest speakers. RCOS attendance goes
-through observatory, and depending on the number of credits you take you are
-allowed to skip a certain number of lectures.
+feedback, and learning from tech talks and guest speakers. Attendence is required
+and is taken on Tuesdays and Fridays via observatory.
 
-There are a certain number of required bonus sessions, which take place after
-RCOS (within the 2 hour time block) or at a day announced at a large group
-meeting. If you attend over your required number of bonus sessions, a bonus
-session counts as normal attendance.
+Unexcused absences can be made up by attending bonus sessions. Generally bonus
+sessions are unique, long or workshop-style tech talks, a RCOS hackathon, or an
+optional RCOS session. Pay attention in the large group meeting to hear bonus
+sessions announced.
 
-Generally bonus sessions are unique, long or workshop-style tech talks, a
-RCOS hackathon, or an optional RCOS session. Pay attention in the large group
-meeting to hear bonus sessions announced.
+A student can have two unexcused absences before their grade is affected or make-ups are needed.
 
-### Average Weekly Contributions
+## Presentations
 
-Weekly contributions can be anything from creating issues, commenting on pull
-requests or committing code to a repository. Contributions should indicate
-community involvement (e.g. a pull request that is reviewed by peers) rather than
-"working alone publicly". If you are on an RCOS project alone, it is admissable
-to commit directly to a repository.
+Each project group is required to give one large group presentation. Presentations should be
+well prepared and rehearsed in the presence of a mentor for feedback.
+See [rcos presentations](http://rcos.github.io/intro/presentations#/) for more details.
 
-### Small Group Presentations
+### Tech Talks & Bonus Sessions
 
-Small group presentations help give projects critical feedback or resolve issues,
-a mentor will organize presentations at the beginning of the semester in an early
-small group.
+In addition to the large group project presentation, each member is required to either give
+one large group tech talk, host a bonus session, or alternatively attend a bonus session.
+Upperclassmen and more senior members are encouraged to give tech talks for the benefit of the RCOS community.
+All members are encouraged to attend bonus sessions. A bonus session attended in lieu of
+hosting a bonus session or giving a tech talk cannot also count as an attendence makeup.
 
-### Large Group Presentations
-
-Large group presentations usually do not receive feedback, and should be tailored
-to engaging the RCOS community. See [rcos presentations](http://rcos.github.io/intro/presentations#/)
-for more details.
-
-### External Contribution
+## External Contribution
 
 Contribute to something outside of RCOS or help out another group with an issue! External contributions 
-are encouraged as it allows RCOS to give back to the larger open source community.  The project you're
+are encouraged as it allows RCOS to give back to the larger open source community. The project you're
 contributing to should be used by a significant number of people outside of RPI.  
 
 Within RCOS, we also want to generate a community of helping other projects and making your project more 
 friendly to outside contributors. If you're doing your external contributions to another RCOS project, it 
 must be a project that you have not previouly worked on and you must communicate with the project through 
-Github issues, PRs, and code reviews. 
+Github issues, PRs, and code reviews.
 
-### Documentation Review
+External contributions are strongly encouraged but are not required. With the approval of a mentor,
+a significant external contribution can take the place of a single [deliverable requirement](#deliverables).
 
-Your project should live on outside of RCOS! You should have a README, instructions
-for developers to work on the project and some form of documentation. Instructors
-will go through the documentation and make sure that your project could potentially
-have a life outside of RCOS.
+# How Grades are Calculated
 
-Making a website is an encouraged way of showing off your project outside of RCOS.
+Although RCOS is a team sport, grading is done on the individual member. Make sure you meet the requirements,
+including the requirements on the project itself such as the README, License and other forms of documentation.
 
-## Individual and Group Grading
+**If you find this rubric to be incompatible with your project, or you believe that it will significantly
+hinder or not acurately represent your progress, please let us know as adjustments and exceptions can be made.**
 
-RCOS is a team sport, but when grading instructors can only look at the individual.
-Make sure that you meet the requirements!
+| Category | A | B | C | D | F |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Contributions & Planning - 50% | Makes meaningful contributions to several deliverables. Student communicates failures and development barriers to their team and mentors, and makes their best effort to overcome challenges. Student is involved in planning and is proactive in updating plans and proposal. Student is active on Github and Slack and makes excellent use of issue tracking and project management systems. | Student makes meaningful contributions to several deliverables, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. | Student makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. | Student makes almost no meaningful contributions and makes little effort to communicate with team members and mentors. | Student demonstrates no visible effort to contribute to their project or communicate with their team and mentors. |
+| Documentation - 20% | Project has an OSI approved license, a helpful README, has additional documentation that is of quality and value. Makes frequent, high caliber blog posts documenting each issue they work on and several problems they solve. | Makes blog posts that may be too few or brief OR project may not have may not have much additional documentation. | Makes only a few or low quality blog posts, OR project may have little other documentation. | Makes few blog posts of little to no value and does not contribute to other forms of documentation. | Makes no blog posts and contributes no effort toward documenting the project. Project does not have a meaningful README or license. |
+| Attendance - 15% | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. | Attends most meetings and makes up most unexcused absences | Repeatedly misses meetings or does not make up unexcused absences | Misses many meetings and does not attempt to make up unexcused absences | Makes no effort to regularly attend meetings |
+| Presentations - 15% | Participates in large group presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Hosts a well prepared and useful tech talk or bonus session OR attends the requisite bonus session. | Makes a reasonable effort to participate in presentation and is at least somewhat prepared. Hosts a tech talk or bonus session OR attends the requisite bonus session. | Is unprepared for presentation or does not participate heavily. Hosts a tech talk or bonus session OR attends the requisite bonus session. | Makes little effort to participate in presentation and does not host tech talk, bonus session, or attend bonus sessions. | Makes no effort to participate in presentation or does not attend. Does not host tech talk, bonus session, or attend any bonus sessions. |
