@@ -1,11 +1,11 @@
-Here you find a list of cooordinators/advidors/mentors for RCOS.
+Here you find a list of cooordinators/advisors/mentors for RCOS.
 
 ##Faculty Advisors
-Moorthy
+Moorthy - mskmoorthy@gmail.com
 
-Goldschmidt
+Goldschmidt - goldschmidt@gmail.com
 
-Wes Turner 
+Wes Turner - turnew2@rpi.edu
 
 ##Spring 2017 Coordinators
 Kiana 
