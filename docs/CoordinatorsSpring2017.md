@@ -1,5 +1,7 @@
 Here you find a list of cooordinators/advisors/mentors for RCOS.
 
+Email Contact: coordinators@rcos.io 
+
 ##Faculty Advisors
 Moorthy
 
