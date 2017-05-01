@@ -5,7 +5,7 @@
 Mentors are the life blood of RCOS, a mentor can help you with technical problems, show
 you where/how to find help for your project, and help you find a new project etc.
 
-###Mentor Responsibilities
+### Mentor Responsibilities
 - Help point students to what they need to do/where they need to go within RCOS
 - Make sure your mentees are on their schedule OR have documented reasons to be off their schedule.
 - Set up whatever organization/goal structure you feel is best for helping students be successful with their open source contributions; this is what gives a small group personality.
@@ -15,7 +15,7 @@ you where/how to find help for your project, and help you find a new project etc
 - Help mentees to reach their own goals
 - Talk directly to projects and mentees, understand what their project is and where you can help
 - Share ideas and contribute to development of RCOS as a whole- as long as you're monitoring the #mentors slack channel you should opportunities to contribute.
-- 
+
 ### Things Mentors should Know
 - Names and channels for referring mentees to coordinators or faculty
 - How to direct mentees to the [rcos intro slides](http://rcos.github.io/intro/#/)
