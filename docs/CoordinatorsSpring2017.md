@@ -2,14 +2,14 @@ Here you find a list of cooordinators/advisors/mentors for RCOS.
 
 Email Contact: coordinators@rcos.io 
 
-##Faculty Advisors
+## Faculty Advisors
 Moorthy
 
 Goldschmidt 
 
 Wes Turner
 
-##Spring 2017 Coordinators
+## Spring 2017 Coordinators
 Kiana 
 
 Richie 
@@ -18,7 +18,7 @@ Brian
 
 Adrian 
 
-##Spring 2017 Mentors
+## Spring 2017 Mentors
 Adrian Collado
 
 Andrew Kaiser
