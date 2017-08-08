@@ -42,7 +42,7 @@ As mentioned above, there are two types of meetings in RCOS. **Small Group** mee
 
 ## Observatory
 
-[Observatory] (https://rcos.io) is RCOS's open source project management platform. Every RCOS member is required to have an observatory account, it's through this platform that you can write blog posts, record your attendance and see other RCOS projects.
+[Observatory](https://rcos.io) is RCOS's open source project management platform. Every RCOS member is required to have an observatory account, it's through this platform that you can write blog posts, record your attendance and see other RCOS projects.
 
 ## Slack
 
