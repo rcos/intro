@@ -10,7 +10,7 @@ The following grading criteria are designed to help you succeed as an RCOS stude
 
 ### Proposal
 
-Each project must start with a proposal which will serve as a plan and contract. Your proposal should describe a set of well defined milestones with planned dates of completion. Details on milestone requirements is described in the [Milestones and Issues](#Milestones-and-Issues) section. 
+Each project must start with a proposal which will serve as a plan and contract. Your proposal should describe a set of well defined milestones with planned dates of completion. Details on milestone requirements are described in the [Milestones and Issues](#Milestones-and-Issues) section. 
 
 The proposal and milestones must be approved by a mentor at the start of the semester. However, it is important to remember that the proposal is a living document. Plans often change, and that is OK.
 
@@ -92,7 +92,7 @@ External contributions are strongly encouraged but are not required. With the ap
 
 Although RCOS is a team sport, grading is done on the individual member. Make sure you meet the requirements, including the requirements on the project itself such as the README, License and other forms of documentation.
 
-**If you find this rubric to be incompatible with your project, or you believe that it will significantly hinder or not acurately represent your progress, please let us know as adjustments and exceptions can be made.**
+**If you find this rubric to be incompatible with your project, or you believe that it will significantly hinder or not accurately represent your progress, please let a coordinator or faculty member know as adjustments and exceptions can be made.**
 
 ### Contributions and Planning - 50%
 | Grade | Description |
