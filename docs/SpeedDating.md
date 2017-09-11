@@ -20,7 +20,9 @@ It is advised that coordinators bring a couple print outs of the current semeste
 
 Once the representatives are all in place, members are instructed to find a project if they do not already have one. Members should speak to reps for projects they find interesting and gain more information, and reps should be open to questions. **It is the rep’s responsibility to decide whether or not a member is suited for the role.**
 
-Once a project has one to two members in addition to the representative, those members should move to the proposal approval room to work on the project proposal. Additionally, once a project has decided that it has enough members, the representative should bring their project sign to a mentor or coordinator. The mentor should strike through (~Project A~) projects that have concluded their search from the projected key on an ongoing basis. **DO NOT delete the project from the list!!** 
+Once a project has one to two members in addition to the representative, those members should move to the proposal approval room to work on the project proposal. Additionally, once a project has decided that it has enough members, the representative should bring their project sign to a mentor or coordinator. The mentor should strike through (~Project A~) projects that have concluded their search from the projected key on an ongoing basis. 
+
+**DO NOT delete the project from the list!!** 
 
 All project members should eventually relocate to the proposal approval room. Some projects will have this finalized before the Speed Dating event. In this case, they should go right to the proposal approval room.  
 
