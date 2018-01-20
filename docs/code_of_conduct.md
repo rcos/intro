@@ -38,7 +38,7 @@ The Harassment Policy is adapted from the Contributor Covenant, version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 ### Reporting Violations
-At any point, you may report a Code of Conduct violation to any of your mentors or a coordinator. If you do not have access to RCOS's Slack channel and/or you are not affiliated with RPI, you may contact the RCOS coordinators at [email]. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+At any point, you may report a Code of Conduct violation to any of your mentors or a coordinator or faculty member. If you do not have access to RCOS's Slack channel and/or you are not affiliated with RPI, you may contact the RCOS coordinators at [email]. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
 
 ### Consequences
 If you violate the RCOS Community Code of Conduct, appropriate consequences will follow at the discretion of faculty. These may include:
