@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>RCOS Intro</title>
+
+        <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+        <meta name="author" content="Hakim El Hattab">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+        <link rel="stylesheet" href="revealjs/css/reveal.css">
+        <link rel="stylesheet" href="revealjs/css/theme/black.css" id="theme">
+
+        <!-- Code syntax highlighting -->
+        <link rel="stylesheet" href="lib/css/zenburn.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+        <style> .byside{ display:inline-block; } </style>
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'revealjs/css/print/pdf.css' : 'revealjs/css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+
+        <!--[if lt IE 9]>
+            <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+                <section>
+                    <h1>Our Code of Conduct</h1>
+                    <h3>Rensselaer Center for Open Source</h3>
+                </section>
+
+                <section>
+                    <h2>About this presentation</h2>
+                    <p>
+                        <a href='https://github.com/rcos/intro'>github.com/rcos/intro/code_of_conduct.html</a>
+                        <img src='img/repo_screen.png'/>
+                    </p>
+                </section>
+
+                <section>
+                    <h2>Why a Code of Conduct?</h2>
+                    <p class="fragment">A code of conduct:</p>
+                    <ul>
+                      <li class="fragment">Establishes expectations for behavior</li>
+                      <li class="fragment">Helps foster a welcoming and inclusive environment</li>
+                      <li class="fragment">Is used in thousands of open source projects, including....</li>
+                    </ul> 
+                </section>
+
+                <section>
+                    <h2>Projects Adopting a Code of Conduct</h2>
+                    <ul class='byside' style='vertical-align:top'>
+                        <li>Angular</li>
+                        <li>YACS*</li>
+                        <li>Django</li>
+                        <li>Rails</li>
+                        <li>curl</li>
+                        <li>Jekyll</li>
+                        <li>Swift</li>
+                    </ul>
+                    <ul class='byside'>
+                        <li>Elixir</li>
+                        <li>Vue</li>
+                        <li>Bootstrap</li>
+                        <li>Jenkins</li>
+                        <li>React</li>
+                        <li>Python</li>
+                        <li>Node.js</li>
+                    </ul>
+                    <p>... and thousands more!</p>
+                    <p>* As of Jan 19, 2018, YACS is the only RCOS project with a Code of Conduct!</p>
+                </section>
+                <section>
+                    <h2>Our Code of Conduct</h2>
+                    <p>The RCOS Community Code of Conduct, like everything we do, is open source!</p>
+                    <img src="img/code_of_conduct_screen.png">
+                    <!--<p class="fragment">Our Code of Conduct was designed with RCOS in mind, and includes policies on:</p>
+                    <ul>
+                      <li class="fragment">Laptops/Mobile Devices</li>
+                      <li class="fragment">Noise/Large Group Etiquette</li>
+                      <li class="fragment">Harassment</li>
+                      <li class="fragment">Reporting Violations</li>
+                      <li class="fragment">Consequences</li>
+                    </ul>-->
+                </section>
+
+                
+
+                <section>
+                    <h2>What does the Code of Conduct cover?</h2>
+                    <ul>
+                      <li class="fragment">General guidelines for all online and offline project spaces</li>
+                      <li class="fragment">RPI-specific guidelines for large group meetings, etc.</li>
+                    </ul>
+                </section>
+                
+                
+                <section>
+                  <h2>Add the RCOS Community Code of Conduct to Your Project</h2>
+                  <p class="fragment">Follow GitHub's instructions for adding a code of conduct: <a href="http://bit.ly/2mXVZhO">bit.ly/2mXVZhO</a></p>
+                  <p class="fragment">In the CODE_OF_CONDUCT.md file you created, copy and paste the Code of Conduct template found in the RCOS intro repository under "docs".</p>
+                </section>
+
+                <section>
+                    <h2>Questions?</h2>
+                </section>
+                
+                <section>
+                    <h2>Thanks for listening!</h2>
+                </section>
+                
+            </div>
+        </div>
+
+        <script src="revealjs/lib/js/head.min.js"></script>
+        <script src="revealjs/js/reveal.js"></script>
+        <script>
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+                transition: 'slide',
+
+                dependencies: [
+                { src: 'revealjs/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'revealjs/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'revealjs/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'revealjs/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'revealjs/plugin/zoom-js/zoom.js', async: true },
+                { src: 'revealjs/plugin/notes/notes.js', async: true }
+                ]
+            });
+        </script>
+    </body>
+</html>
