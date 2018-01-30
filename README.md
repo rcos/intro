@@ -64,6 +64,12 @@ Finding a team in RCOS isn't a requirement, but can often make RCOS easier for e
 
 [Github](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project.
 
+## Code of Conduct
+
+Our **Community Code of Conduct** outlines some common ground rules all RCOS members are expected to abide by in order to make RCOS an inclusive experience for everyone. You can find the RCOS Community Code of Conduct [here](https://github.com/rcos/intro/blob/master/docs/code_of_conduct.md). 
+
+In addition to following the Community Code of Conduct, we strongly suggest that your project's repository includes a Code of Conduct as well. You can find a Code of Conduct template for your project that includes an abbreviated version of our Code of Conduct as well as space for any project-specific ground rules [here](https://github.com/rcos/intro/blob/master/docs/project_coc_template.md). In addition, Github has instructions on including a Code of Conduct in your project [here](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/).
+
 ## Getting Help
 
 Your mentors will help you all along the way. If you have any questions, find your mentor and ask. If you don't have a mentor or you've forgotten your mentor, talk to a coordinator.
@@ -84,11 +90,13 @@ Student's who take RCOS for credit must be evaluated and given a letter grade. T
 
 If you'd like to see a more refined set of guidelines, see the formal [grading rubric](https://github.com/rcos/intro/blob/master/docs/grading.md).
 
-## Our goals in RCOS (S2016)
+## Our goals in RCOS (S2018)
 
 * Get more contributions to external projects (projects created outside RCOS)
-* Increase the rate of success and of RCOS projects
 * Increase the longevity of RCOS projects
+* Collaborate with other organizations, including MOSSN (Mozilla Open Source Student Network)
+* Offer alternative ways to learn and get involved (not just coding)
+* Have more student talks and bonus sessions
 
 ## What do you do now?
 
