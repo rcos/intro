@@ -7,9 +7,9 @@ The General Code of Conduct applies to all RCOS activity and activity affiliated
 ### Guidelines
 #### Be respectful and inclusive
 * **Use inclusive language.**  This includes:
-  * using [gender-neutral or non-gendered language](http://geekfeminism.wikia.com/wiki/Nonsexist_language) where possible 
-  * when referring to community members, using their preferred pronouns 
-  * in general, avoiding any language that could be considered offensive towards marginalized groups
+  * Using [gender-neutral or non-gendered language](http://geekfeminism.wikia.com/wiki/Nonsexist_language) where possible 
+  * When referring to community members, using their preferred pronouns 
+  * In general, avoiding any language that could be considered offensive towards marginalized groups
 * **Respect people's differences.** Examples include:
   * Being welcoming towards new members
   * Being open to opposing viewpoints
@@ -43,26 +43,31 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 This section applies to RCOS meetings at RPI, including large group and small group meetings as well as bonus sessions, casual coding sessions, and any project meetings unless otherwise noted.
 
+### Attendance Codes
+Attendance codes are given during all RCOS small group, large group, and bonus sessions. When the attendance code is delivered, go to http://rcos.io, click "Attend", and enter the attendance code so you can be marked as present for the current session. 
+
+As much as we value sharing and openness, we also value integrity. Thus, we ask that you do not distribute attendance codes to people who are not currently attending the session. If you are caught distributing attendance codes to people who are absent, **both your attendance code as well as the attendance code(s) you distributed to others will be nullified**. 
+
+### Noise
+An important part of RCOS is being able to hear from both fellow RCOS members and guest speakers. We ask that you please refrain from talking or making excessive noise while a speaker is talking as it can be disruptive to the speaker and to your peers. 
+
 ### During Large Group
 During our large group sessions, we have the following policies.
 
 #### Laptops/Mobile Devices
 RCOS likes to maintain a culture of freedom. If you choose to use your laptop or mobile device during large group presentations, you may do so as long as you are mindful of the people around you. This includes:
 
-* muting all audio
-* not participating in audio or video calls
-* ensuring any material that may be visible on your screen is SFW (safe for work)
-* keeping mobile devices on "Silent" or "Vibrate"
-* using your device's keyboard instead of a mechanical keyboard
+* Muting all audio
+* Not participating in audio or video calls
+* Ensuring any material that may be visible on your screen is SFW (safe for work)
+* Keeping mobile devices on "Silent" or "Vibrate"
+* Using your device's keyboard instead of a mechanical keyboard
 
 In addition, some speakers may ask audience members to close all laptops and put away all mobile devices. If a speaker does so, please respect their request.
 
 If you absolutely must take a phone call, you can exit the lecture hall to make/take a phone call. If you need to call emergency services for any reason, you may remain in the room while you make the call.
 
 If you use assistive technology due to a documented disability or injury, or you use a medical device that may make noise or looks similar in appearance to a mobile phone or laptop, **please touch base with a faculty member ASAP**. This will remain confidential.
-
-#### Noise
-An important part of RCOS is being able to hear from both fellow RCOS members and guest speakers. During presentations, we ask that you refrain from talking or making excessive noise as it can be disruptive to the speaker and to your peers.
 
 ### Consequences of Code of Conduct Violations
 If you violate the RCOS Community Code of Conduct, appropriate consequences will follow at the discretion of faculty. These may include:
